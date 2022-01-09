@@ -3,7 +3,7 @@ const BLOG = {
   author: '潦草学者',
   email: 'dayugodd@163.com',
   link: 'https://nobelium.vercel.app',
-  description: '阅读 思考 创作 感受',
+  description: 'liaocaoxuezhe',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
